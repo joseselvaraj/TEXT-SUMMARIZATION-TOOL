@@ -49,3 +49,8 @@ Thank you for the opportunity!
 Warm regards,
 JOSIAH SELVARAJ D
 Karunya University
+
+
+# OUTPUT
+
+![Image](https://github.com/user-attachments/assets/7d99a186-dee1-4ba1-a5c5-fed39d4a2d8d)
