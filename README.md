@@ -40,7 +40,7 @@ Programming Language: Python
 
 Libraries: transformers, torch
 
-Model: Pretrained bart-large-cnn via Hugging Face pipeline
+Model: Article summarizer tool
 
 Please let me know if any additional formats or features are required.
 
