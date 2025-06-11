@@ -13,9 +13,9 @@
 *MENTOR* : NEELA SANTHOSH
 
 
-Task Title: Text Summarization Tool using Natural language processing
+# Task Title: Text Summarization Tool using Natural language processing
 
-Task Summary:
+# Task Summary:
 
 As per the instructions, I have developed a Python-based Text Summarization Tool that uses Natural Language Processing (NLP) to generate concise summaries of lengthy input text.
 
@@ -42,6 +42,9 @@ Thank you for the opportunity!
 Warm regards,
 JOSIAH SELVARAJ D
 Karunya University
+
+# INPUT
+
 
 
 # OUTPUT
