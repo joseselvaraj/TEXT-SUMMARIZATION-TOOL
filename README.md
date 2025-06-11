@@ -45,7 +45,7 @@ Karunya University
 
 # INPUT
 
-
+![Image](https://github.com/user-attachments/assets/afcad38a-ef51-4560-9ad1-ed8832056f55)
 
 # OUTPUT
 
