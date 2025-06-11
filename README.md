@@ -12,13 +12,6 @@
 
 *MENTOR* : NEELA SANTHOSH
 
-Name: JOSIAH SELVARAJ D
-
-University: Karunya University
-
-Internship Role: AI Intern
-
-Company: CodTech IT Solutions
 
 Task Title: Text Summarization Tool using Natural language processing
 
